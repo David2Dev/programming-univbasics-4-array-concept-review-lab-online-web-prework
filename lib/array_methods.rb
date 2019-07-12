@@ -1,5 +1,5 @@
 def find_element_index(scale, 2)
-  scale = 2.times { |index|
+  scale.length.times { |index|
   puts array[index]
   }
 end
