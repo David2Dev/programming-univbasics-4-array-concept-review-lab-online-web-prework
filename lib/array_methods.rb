@@ -5,7 +5,7 @@ def find_element_index(scale, 2)
 end
 
 def find_max_value(array)
-  # Add your solution here
+ find_max_value
 end
 
 def find_min_value(array)
